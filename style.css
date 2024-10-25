@@ -6,7 +6,7 @@
 
 body{
     font-family: tahoma;
-    width: ;
+    width: 900px;
 }
 
 .wrap{
@@ -16,7 +16,7 @@ body{
     margin: auto;
 }
 
-.wrap .authfrom,. logo{
+.wrap .authfrom,.logo{
     display: flex;
     flex-direction: column;
     align-items: center;
