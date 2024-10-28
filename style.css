@@ -60,6 +60,7 @@ body {
     font-size: 14px;
     color: #333;
     width: 80%;
+    text-align: center;
 }
 
 .authForm input[type="text"],
